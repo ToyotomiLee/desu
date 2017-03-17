@@ -16,6 +16,7 @@ public class JavaApplication42 {
      */
     public static void main(String[] args) {
         System.out.println("bla");
+        System.out.println("ble");
     }
     
 }
